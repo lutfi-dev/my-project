@@ -11,3 +11,16 @@ MY PROJECT/
 │   ├── etc...php
 └── web.php
 ```
+## Route
+
+### Structure
+
+```
+ROUTE/
+├──Rsouter1
+|  ├──Modular
+|  ├──Small
+|  ├──Record
+└──web.php
+```
+
